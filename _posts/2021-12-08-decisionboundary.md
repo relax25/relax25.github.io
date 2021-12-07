@@ -8,6 +8,7 @@ categories:
 tags: [python, visualization]
 
 author_profile: true
+typora-copy-images-to: ../images/2021-12-08
 ---
 
 scikit learn과 matplot을 활용하여 decision boundary를 그려보았다.
@@ -94,8 +95,4 @@ ax.contourf(uu, vv, z, cmap=plt.cm.rainbow, alpha=0.3)
 
     <matplotlib.contour.QuadContourSet at 0x7fdbdcc4c5f8>
 
-
-
-
-![png](output_5_1.png)
-
+![output_5_1]({{site.url}}/images/2021-12-08/output_5_1.png)
