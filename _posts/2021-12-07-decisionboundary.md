@@ -1,3 +1,4 @@
+---
 layout: single
 title:  "Decision boundary를 그려보자"
 categories:
@@ -9,7 +10,6 @@ tags: [python, visualization]
 author_profile: true
 
 typora-copy-images-to: ../images/2021-12-07
-
 ---
 
 scikit learn과 matplot을 활용하여 decision boundary를 그려보았다.
