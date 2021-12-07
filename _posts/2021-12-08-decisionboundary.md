@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Decision boundary를 그려보자"
+title:  "TIL-2021-12-08-Decision boundary를 그려보자"
 categories:
 
 - TIL
@@ -8,8 +8,6 @@ categories:
 tags: [python, visualization]
 
 author_profile: true
-
-typora-copy-images-to: ../images/2021-12-07
 ---
 
 scikit learn과 matplot을 활용하여 decision boundary를 그려보았다.
@@ -96,4 +94,8 @@ ax.contourf(uu, vv, z, cmap=plt.cm.rainbow, alpha=0.3)
 
     <matplotlib.contour.QuadContourSet at 0x7fdbdcc4c5f8>
 
-![output_5_1](../images/2021-12-07/output_5_1.png)
+
+
+
+![png](output_5_1.png)
+
