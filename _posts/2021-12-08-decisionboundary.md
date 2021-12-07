@@ -48,7 +48,7 @@ X = np.hstack([
     normal_sampling(6, 1, 5, 1, sample_size),
     normal_sampling(6, 3, 0, 1, sample_size),
     normal_sampling(0, 3, 6, 2, sample_size)
-]).T # (500,2)
+]).T # (7*500,2)
 
 Y = []
 for i in range(0, X.shape[0]//sample_size):
