@@ -95,4 +95,4 @@ ax.contourf(uu, vv, z, cmap=plt.cm.rainbow, alpha=0.3)
 
     <matplotlib.contour.QuadContourSet at 0x7fdbdcc4c5f8>
 
-![output_5_1]({{site.url}}/images/2021-12-08/output_5_1.png)
+![output_5_1](/images/2021-12-08/output_5_1.png)
