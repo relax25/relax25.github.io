@@ -30,7 +30,7 @@ typora-copy-images-to: ../images/2021-12-09
 
 - 현존하는 Computer Vision 기술의 next level 로 알려져 있다.
 - 최근 메타버스, VR 기술의 발달로 기대가 높아지고 있다.
-- 무한히 사람의 통제를 받지않은 가상세계의 대량의 데이터(거의 무한에 가까운)를 학습하여 현실 세계의 문제 해결을 위해 환원 하는 것이 목표
+- 사람의 통제를 받지않은 가상세계의 대량의 데이터(거의 무한에 가까운)를 학습하여 현실 세계의 문제 해결을 위해 환원 하는 것이 목표
 
 
 
@@ -45,7 +45,7 @@ typora-copy-images-to: ../images/2021-12-09
 
  
 
-# 인간 데이터로 학습된 모델은 그저 인간을 모방한 기계일 뿐
+# 인간 데이터로 학습된 모델은 그저 인간을 모방하는 기계일 뿐
 
 ---
 
@@ -56,7 +56,7 @@ typora-copy-images-to: ../images/2021-12-09
 - 메타버스, VR 과 같은 가상 세계에 존재하는 합성 생성된 데이터가 현존하는 컴퓨터 비전 기술을 뛰어넘을 수 있게해주는 key가 될 것이라고 함
   - Gartner의 예측
     - [By 2024, 60% of the data used for the de­vel­op­ment of AI and an­a­lyt­ics projects will be syn­thet­i­cally gen­er­ated](https://blogs.gartner.com/andrew_white/2021/07/24/by-2024-60-of-the-data-used-for-the-development-of-ai-and-analytics-projects-will-be-synthetically-generated/)
-- 내가 보았던 블로그 포스트에서는 unsupervised domain adaptation (UDA)와 같은 사람의 개입이 최소화된 (사실상 없는) 가상 데이터를 활용하는 접근법에 대한 중요성을 강조하고 있다.
+- 내가 보았던 블로그 포스트에서는 unsupervised domain adaptation (UDA)와 같은 사람의 개입이 최소화된 (사실상 없는) 가상 데이터를 활용하는 접근법에 대한 중요성을 강조하고 있는 듯 하다.
 
 # What is UDA?
 
