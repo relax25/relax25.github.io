@@ -20,7 +20,7 @@ typora-copy-images-to: ../images/2021-12-09
 > >
 > > 그 후보로는 SCV 라는 기술이 있는데 메타버스, VR 기술과 연계되면 시너지가 커질 것으로 예상
 
-원문 링크 : https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9
+원문 링크 : [링크](https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9)
 
 # Synthetic Computer Vision (SCV)
 
@@ -39,7 +39,7 @@ typora-copy-images-to: ../images/2021-12-09
 ---
 
 - 상당히 뜬 구릅 잡는 이야기 같지만, 실제로 최근 GAT5 driving 데이터를 활용해서 실제 자율주행 문제에 적용해서 성능 개선을 이루어내고 있다.  
-- 실제로 GTA 데이터셋의 사용 빈도도 높아지고 있다! (https://paperswithcode.com/dataset/gta5)
+- 실제로 GTA 데이터셋의 사용 빈도도 높아지고 있다! (-> [링크](https://paperswithcode.com/dataset/gta5))
 
 ![image-20211209000111130](/images/2021-12-09/image-20211209000111130.png)
 
@@ -55,8 +55,7 @@ typora-copy-images-to: ../images/2021-12-09
   - 대신, Alpha zero는 자신이 교사이자 학생이 되어 스스로와 경쟁하는 과정을 통해 학습 
 - 메타버스, VR 과 같은 가상 세계에 존재하는 합성 생성된 데이터가 현존하는 컴퓨터 비전 기술을 뛰어넘을 수 있게해주는 key가 될 것이라고 함
   - Gartner의 예측
-    - By 2024, 60% of the data used for the de­vel­op­ment of AI and an­a­lyt­ics projects will be syn­thet­i­cally gen­er­ated
-    - https://blogs.gartner.com/andrew_white/2021/07/24/by-2024-60-of-the-data-used-for-the-development-of-ai-and-analytics-projects-will-be-synthetically-generated/
+    - [By 2024, 60% of the data used for the de­vel­op­ment of AI and an­a­lyt­ics projects will be syn­thet­i­cally gen­er­ated](https://blogs.gartner.com/andrew_white/2021/07/24/by-2024-60-of-the-data-used-for-the-development-of-ai-and-analytics-projects-will-be-synthetically-generated/)
 - 내가 보았던 블로그 포스트에서는 unsupervised domain adaptation (UDA)와 같은 사람의 개입이 최소화된 (사실상 없는) 가상 데이터를 활용하는 접근법에 대한 중요성을 강조하고 있다.
 
 # What is UDA?
@@ -75,7 +74,7 @@ typora-copy-images-to: ../images/2021-12-09
 
 ---
 
-- 구글링 하다가 한국분이 작성한 아카이브 논문(https://arxiv.org/pdf/2103.13447.pdf) 발견!
+- 구글링 하다가 한국분이 작성한 [아카이브 논문](https://arxiv.org/pdf/2103.13447.pdf) 발견!
   - DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation
   - CVPR2021에서 발표
 
@@ -99,6 +98,6 @@ typora-copy-images-to: ../images/2021-12-09
 
 ---
 
-원문 : https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9
+원문 : [https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9](https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9)
 
-DRANet 논문 : https://arxiv.org/pdf/2103.13447.pdf
+DRANet 논문 : [https://arxiv.org/pdf/2103.13447.pdf](https://arxiv.org/pdf/2103.13447.pdf)
