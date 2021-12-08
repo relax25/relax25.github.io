@@ -38,7 +38,7 @@ typora-copy-images-to: ../images/2021-12-09
 
 ---
 
-- 상당히 뜬 구릅 잡는 이야기 같지만, 실제로 최근 GAT5 driving 데이터를 활용해서 실제 자율주행 문제에 적용해서 성능 개선을 이루어내고 있다.  
+- 상당히 뜬 구릅 잡는 이야기 같지만, 실제로 최근 GTA5 driving 데이터를 활용해서 실제 자율주행 문제에 적용해서 성능 개선을 이루어내고 있다.  
 - 실제로 GTA 데이터셋의 사용 빈도도 높아지고 있다! (-> [링크](https://paperswithcode.com/dataset/gta5))
 
 ![image-20211209000111130](/images/2021-12-09/image-20211209000111130.png)
@@ -62,7 +62,7 @@ typora-copy-images-to: ../images/2021-12-09
 
 ---
 
-- 잘 학습된 딥러닝 모델이라고 하더라도 다른 domain으로 transfer 되었을 때 (e.g., GAT->real) 성능저하가 발생하게 되는데 이를 **domain shift**라고 학계에서는 칭하고 있다.
+- 잘 학습된 딥러닝 모델이라고 하더라도 다른 domain으로 transfer 되었을 때 (e.g., GTA->real) 성능저하가 발생하게 되는데 이를 **domain shift**라고 학계에서는 칭하고 있다.
 
 - UDA에서는 **Generative Adversarial Network** (GAN)에서의 adversarial training이 핵심이다 (2 player's min-max game)
   - 여기서 discriminator는 진짜/가짜를 구별하는 것이 아니라, source/target domain 을 구별하는 것이다. 
