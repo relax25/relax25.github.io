@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "TIL-2021-12-09-우리의 알고리즘에 대한 집착은 컴퓨터비전을 좀먹고 있는가!" 
+title: "TIL-2021-12-09-우리의 알고리즘에 대한 집착은 어떻게 컴퓨터비전을 좀먹고 있는가!" 
 categories:
   - TIL
 tags: [computervision, trend]
@@ -10,7 +10,15 @@ typora-copy-images-to: ../images/2021-12-09
 
 
 
-제목이 강렬해서 보게된 medium post를 정리한 글이다.
+제목이 강렬해서 보게된 medium post를 보고 두서 없이 생각나는대로 정리한 글이다.
+
+저자가 말하고자 하는바는 이렇게 느껴졌다.
+
+> 고작 인간 따위가 만든 데이터로 학습된 컴퓨터 비전 알고리즘은 결국 한계에 이르렀다 (인간이 결점 투성이 이듯이)
+>
+> > 다음 단계로 전진하려면 인간의 통제를 받지 않는 가상 공간에서 기계 스스로 학습하게 해야한다! 
+> >
+> > 그 후보로는 SCV 라는 기술이 있는데 메타버스, VR 기술과 연계되면 시너지가 커질 것으로 예상
 
 원문 링크 : https://neurolabs.medium.com/how-our-obsession-with-algorithms-broke-computer-vision-4b8bced85aa9
 
